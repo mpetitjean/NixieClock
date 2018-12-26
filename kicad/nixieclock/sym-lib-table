@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Converter_DCDC)(type Legacy)(uri ${KIPRJMOD}/Converter_DCDC.lib)(options "")(descr ""))
+  (lib (name SN74141)(type Legacy)(uri ${KIPRJMOD}/SN74141.lib)(options "")(descr ""))
+  (lib (name nixie)(type Legacy)(uri C:/Users/Mathieu/Documents/NixieClock/kicad/nixieclock/nixie.lib)(options "")(descr ""))
+)
